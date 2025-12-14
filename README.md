@@ -1,5 +1,9 @@
 # 💫 About Me:
-i am currently working on comunus technology pvt ltd company , as a software engineeer having a skils full stack developer in java , and many more skills like bootstrap , spring boot , spring mvc , jsp/servlet,sql,mysql databse, react,power bi github,azure,svn ,soap ui and now days i am learning new skills or software or langavages like paython and machine learing , deep learning dooker kubernet  having multiple projects on github like portfolio banking application ,and some android studio application like user verification etc 
+I am currently working at Comunus Technology Pvt. Ltd. as a Software Engineer. I am a skilled Full Stack Java Developer with hands-on experience in technologies such as Java, Spring Boot, Spring MVC, JSP/Servlets, SQL, MySQL, Bootstrap, React, and Power BI.
+
+I am also proficient with tools and platforms including GitHub, Azure, SVN, and SoapUI.
+
+I actively work on enhancing my skills and am currently learning Python, Machine Learning, Deep Learning, Docker, and Kubernetes. I have developed multiple projects hosted on GitHub, including a portfolio website, a banking application, and several Android Studio applications such as user verification systems.
 
 
 ## 🌐 Socials:
